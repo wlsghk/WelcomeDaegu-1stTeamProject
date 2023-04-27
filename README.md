@@ -29,4 +29,4 @@
 <img src="https://img.shields.io/badge/html5-F24E1E?style=for-the-badge&logo=html5&logoColor=black"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/javascript-764ABC?style=for-the-badge&logo=JavaScript&logoColor=purple"></li>
 </ul>
 <h3>🔎 사이트</h3>
-<ul>https://wlsghk.github.io/HelloDaegu-1stTeamProject/first.html</ul>
+<ul>https://wlsghk.github.io/WelcomeDaegu-1stTeamProject/first.html</ul>
