@@ -55,7 +55,7 @@ function mobResize() {
 
     /* 게스트하우스 세 번째 이미지 다시 넣기 */
     const $ghImg = document.createElement("img");
-    $ghImg.src = "../img/guesthouse-3.png";
+    $ghImg.src = "./img/guesthouse-3.png";
     document.querySelector(".guesthouse__right").appendChild($ghImg);
     $ghImg.classList.add("guesthouse_img__js");
 
@@ -94,24 +94,24 @@ mobResize();
   const $polakImg = document.querySelector(".bookStore__img1");
 
   $deepImg.addEventListener("mouseover", (e) => {
-    $deepImg.src = "../img/coffee2.png";
+    $deepImg.src = "./img/coffee2.png";
   });
   $deepImg.addEventListener("mouseout", (e) => {
-    $deepImg.src = "../img/coffee.png";
+    $deepImg.src = "./img/coffee.png";
   });
 
   $cbImg.addEventListener("mouseover", (e) => {
-    $cbImg.src = "../img/bookstore3.png";
+    $cbImg.src = "./img/bookstore3.png";
   });
   $cbImg.addEventListener("mouseout", (e) => {
-    $cbImg.src = "../img/bookstore2.png";
+    $cbImg.src = "./img/bookstore2.png";
   });
 
   $polakImg.addEventListener("mouseover", (e) => {
-    $polakImg.src = "../img/bookstore4.png";
+    $polakImg.src = "./img/bookstore4.png";
   });
   $polakImg.addEventListener("mouseout", (e) => {
-    $polakImg.src = "../img/bookstore1.png";
+    $polakImg.src = "./img/bookstore1.png";
   });
 })();
 
@@ -183,9 +183,9 @@ mobResize();
 /* 스타벅스 사진 변경*/
 const img = document.querySelector(".sb_carousel > img");
 let imgArray = new Array();
-imgArray[1] = "../img/starbucks5.png";
-imgArray[2] = "../img/starbucks4.png";
-imgArray[3] = "../img/starbucks3.png";
+imgArray[1] = "./img/starbucks5.png";
+imgArray[2] = "./img/starbucks4.png";
+imgArray[3] = "./img/starbucks3.png";
 
 var imgCnt = 0;
 
