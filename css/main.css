@@ -484,7 +484,7 @@ span {
   opacity: 0.8;
   background-size: contain;
   background-position: center;
-  background: url("../img/cnt1-1.png") no-repeat;
+  background: url("../img/cnt1-1.PNG") no-repeat;
 }
 
 .cnt1_img .cnt1_2 {
@@ -493,7 +493,7 @@ span {
   opacity: 0.8;
   background-size: cover;
   background-position: center;
-  background: url("../img/cnt1-2.png") no-repeat;
+  background: url("../img/cnt1-2.PNG") no-repeat;
 }
 
 .cnt1_img .cnt1_3 {
@@ -502,7 +502,7 @@ span {
   opacity: 0.8;
   background-size: cover;
   background-position: center;
-  background: url("../img/cnt1-3.png") no-repeat;
+  background: url("../img/cnt1-3.PNG") no-repeat;
 }
 
 .cnt1_1:hover {
@@ -818,7 +818,7 @@ span {
 }
 
 .cnt3border .cnt3_1 {
-  background: url("../img/cnt3-1.png") no-repeat;
+  background: url("../img/cnt3-1.PNG") no-repeat;
   width: 100%;
   height: 100%;
   background-size: cover;
@@ -869,7 +869,7 @@ span {
 }
 
 .cnt3border .cnt3_4 {
-  background: url("../img/cnt3-4.png") no-repeat;
+  background: url("../img/cnt3-4.PNG") no-repeat;
   width: 100%;
   height: 100%;
   background-size: cover;
